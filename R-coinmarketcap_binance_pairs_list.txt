@@ -1,556 +1,77 @@
-undefined 1   Bitcoin  BTC/USDT   $305 297 048     $8265.31   37.54% Spot Percentage Недавно 
- 2   Ethereum  ETH/USDT   $51 880 484     $176.87   6.38% Spot Percentage Недавно 
- 3   Binance Coin  BNB/USDT   $31 579 605     $18.34   3.88% Spot Percentage Недавно 
- 4   XRP  XRP/USDT   $26 285 515      $0.292163   3.23% Spot Percentage Недавно 
- 5   Chainlink  LINK/USDT   $24 867 575     $2.62   3.06% Spot Percentage Недавно 
- 6   Bitcoin Cash  BCHABC/USDT   $24 668 125     $232.53   3.03% Spot Percentage Недавно 
- 7   Binance Coin  BNB/BTC   $20 300 870     $18.33   2.50% Spot Percentage Недавно 
- 8   XRP  XRP/BTC   $19 709 526     $0.292054   2.42% Spot Percentage Недавно 
- 9   Ethereum  ETH/BTC   $18 505 045     $176.63   2.28% Spot Percentage Недавно 
- 10   Chainlink  LINK/BTC   $17 775 159     $2.62   2.19% Spot Percentage Недавно 
- 11   Dock  DOCK/BTC   $15 083 862     $0.013290   1.85% Spot Percentage Недавно 
- 12   EOS  EOS/USDT   $13 522 197     $2.96    1.66% Spot Percentage Недавно 
- 13   Litecoin  LTC/USDT   $13 061 294     $55.20   1.61% Spot Percentage Недавно 
- 14   Bitcoin  BTC/USDC   $12 777 920     $8252.73   1.57% Spot Percentage Недавно 
- 15   Dock  DOCK/USDT   $9 305 571     $0.013294   1.14% Spot Percentage Недавно 
- 16   TRON  TRX/USDT   $7 945 226     $0.015688   0.98%  Spot Percentage Недавно 
- 17   Chiliz  CHZ/BTC   $7 789 960     $0.009823   0.96% Spot Percentage Недавно 
- 18   USD Coin  USDC/USDT   $7 540 756     $1.00   0.93% Spot Percentage Недавно 
- 19   Bitcoin Cash  BCHABC/BTC   $6 947 587     $232.36   0.85% Spot Percentage Недавно 
- 20   Binance USD  BUSD/USDT   $6 246 560     $1.00   0.77% Spot Percentage Недавно 
- 21   Litecoin  LTC/BTC   $5 975 286     $55.14   0.73% Spot Percentage Недавно 
- 22   Bitcoin  BTC/PAX   $5 349 619     $8262.85   0.66% Spot Percentage Недавно 
-  23   Matic Network  MATIC/BTC   $4 846 237     $0.014776   0.60% Spot Percentage Недавно 
- 24   BitTorrent  BTT/USDT   $4 427 896     $0.000421   0.54% Spot Percentage Недавно 
- 25   NKN  NKN/BTC   $4 382 348     $0.035165   0.54% Spot Percentage Недавно 
- 26   0x  ZRX/BTC   $4 366 569     $0.325073   0.54% Spot Percentage Недавно 
- 27   EOS  EOS/BTC   $3 697 236     $2.95   0.45% Spot Percentage Недавно 
- 28   Cardano  ADA/USDT   $3 647 755     $0.039344    0.45% Spot Percentage Недавно 
- 29   Paxos Standard  PAX/USDT   $3 474 009     $1.00   0.43% Spot Percentage Недавно 
- 30   Monero  XMR/BTC   $3 354 055     $57.80    0.41% Spot Percentage Недавно 
- 31   Matic Network  MATIC/USDT   $3 343 189     $0.014734   0.41% Spot Percentage Недавно 
- 32   Bitcoin  BTC/TUSD   $3 236 274     $8248.96   0.40% Spot Percentage Недавно 
- 33   Ethereum Classic  ETC/USDT   $3 193 116     $4.56   0.39% Spot Percentage Недавно 
- 34   Cardano  ADA/BTC   $3 150 580     $0.039375   0.39% Spot Percentage Недавно 
- 35   Bitcoin  BTC/BUSD   $2 772 194     $8256.90   0.34% Spot Percentage Недавно 
- 36   0x  ZRX/USDT   $2 688 574     $0.325395   0.33% Spot  Percentage Недавно 
- 37   Beam  BEAM/BTC   $2 572 953     $0.583612   0.32% Spot Percentage Недавно 
- 38   Holo  HOT/USDT   $2 556 187     $0.000954   0.31% Spot Percentage Недавно 
- 39   Fetch  FET/USDT   $2 532 833     $0.040750   0.31% Spot Percentage Недавно 
- 40   TRON  TRX/BTC   $2 180 631     $0.015602   0.27% Spot Percentage Недавно 
-  41   TrueUSD  TUSD/USDT   $2 034 990     $1.00   0.25% Spot Percentage Недавно 
- 42   Fetch  FET/BTC   $2 026 752     $0.040696   0.25% Spot Percentage Недавно 
- 43    Stellar  XLM/USDT   $2 025 765     $0.063744   0.25% Spot Percentage Недавно 
- 44   Etherparty  FUEL/BTC   $1 958 026     $0.004458   0.24% Spot Percentage Недавно 
- 45   Holo  HOT/BTC   $1 919 606     $0.000908   0.24% Spot Percentage Недавно 
- 46   Ontology  ONT/USDT   $1 866 997     $0.594383   0.23% Spot Percentage Недавно 
- 47   Chiliz  CHZ/USDT   $1 722 730     $0.009790   0.21% Spot Percentage Недавно 
- 48   Dock  DOCK/ETH   $1 714 682     $0.013292   0.21% Spot Percentage Недавно 
- 49   Monero  XMR/USDT   $1 688 262     $57.83   0.21% Spot Percentage Недавно 
- 50   Ravencoin  RVN/BTC   $1 592 927     $0.031120   0.20% Spot Percentage Недавно 
- 51   Cocos-BCX  COCOS/USDT   $1 543 055     $0.000943   0.19% Spot Percentage Недавно 
- 52   Cosmos  ATOM/USDT   $1 532 996     $2.91   0.19% Spot Percentage Недавно 
- 53   Genesis Vision  GVT/BTC   $1 507 859     $1.17   0.19% Spot Percentage Недавно 
- 54   Stellar  XLM/BTC   $1 461 722     $0.063809   0.18% Spot Percentage Недавно 
- 55   NEO  NEO/USDT   $1 451 927     $7.41   0.18% Spot Percentage Недавно 
- 56   Basic Attention Token  BAT/BTC   $1 410 159     $0.221640   0.17% Spot Percentage Недавно 
- 57   NKN  NKN/USDT   $1 346 596     $0.035139   0.17% Spot Percentage Недавно 
- 58   Metal  MTL/BTC   $1 336 804     $0.304665   0.16% Spot Percentage Недавно 
- 59   Moeda Loyalty Points  MDA/BTC   $1 258 147     $0.789486   0.15% Spot Percentage Недавно 
- 60   Chainlink  LINK/ETH   $1 185 036     $2.63   0.15% Spot Percentage Недавно 
- 61   Holo  HOT/ETH   $1 115 576     $0.000953   0.14% Spot Percentage Недавно 
- 62   Cosmos  ATOM/BTC   $1 112 653     $2.91   0.14% Spot Percentage Недавно 
- 63   Ren  REN/BTC    $1 107 475     $0.056380   0.14% Spot Percentage Недавно 
- 64   NEO  NEO/BTC   $1 104 876     $7.40   0.14% Spot Percentage Недавно 
- 65   Beam  BEAM/USDT   $1 064 709     $0.583041   0.13% Spot Percentage Недавно 
- 66   Ontology  ONT/BTC   $1 063 189     $0.593518   0.13% Spot Percentage Недавно 
- 67   Ethereum  ETH/USDC   $1 053 679      $176.53   0.13% Spot Percentage Недавно 
- 68   Nano  NANO/BTC   $956 070     $0.823000   0.12% Spot Percentage Недавно 
- 69   Basic Attention Token  BAT/USDT   $931 799     $0.221313   0.11% Spot Percentage Недавно 
- 70   Tierion  TNT/BTC   $931 081     $0.079163   0.11% Spot Percentage Недавно 
- 71   Ethereum Classic  ETC/BTC   $901 568      $4.56   0.11% Spot Percentage Недавно 
- 72   IOTA  IOTA/BTC   $893 230     $0.267593   0.11% Spot Percentage Недавно 
- 73   Harmony  ONE/BTC   $871 784     $0.005861    0.11% Spot Percentage Недавно 
- 74   WINk  WIN/USDT   $826 267     $0.000144   0.10% Spot Percentage Недавно 
- 75   Waves  WAVES/BTC   $775 441     $0.811444   0.10% Spot Percentage Недавно 
- 76   Dogecoin  DOGE/BTC   $763 654     $0.002560   0.09% Spot Percentage Недавно 
- 77   Red Pulse Phoenix  PHB/BTC   $751 512     $0.006521   0.09% Spot Percentage Недавно 
- 78   Aave  LEND/BTC   $750 741     $0.008255   0.09% Spot Percentage Недавно 
- 79   XRP  XRP/ETH   $732 602     $0.292379   0.09% Spot  Percentage Недавно 
- 80   Binance Coin  BNB/ETH   $723 529     $18.33   0.09% Spot Percentage Недавно 
- 81   POA  POA/BTC   $676 516     $0.018326   0.08% Spot Percentage Недавно 
- 82   Elrond  ERD/BTC   $674 880     $0.001486   0.08% Spot Percentage Недавно 
- 83   Algorand  ALGO/USDT   $647 706     $0.228941   0.08% Spot Percentage Недавно 
- 84   Cocos-BCX  COCOS/BTC   $615 384     $0.000908   0.08% Spot Percentage Недавно 
- 85   Band Protocol  BAND/BTC   $607 406     $0.338941   0.07% Spot Percentage Недавно 
- 86   Contentos  COS/BTC   $605 498     $0.016262   0.07% Spot Percentage Недавно 
- 87   AppCoins  APPC/BTC   $593 855     $0.038385   0.07% Spot Percentage Недавно 
- 88   Zcash  ZEC/USDT   $560 945     $36.51   0.07% Spot Percentage Недавно 
- 89   Dogecoin  DOGE/USDT   $543 963     $0.002604   0.07% Spot Percentage Недавно 
- 90   Zcash  ZEC/BTC   $508 892     $36.49   0.06% Spot Percentage Недавно 
- 91   district0x  DNT/BTC   $504 819     $0.006769   0.06% Spot Percentage Недавно 
- 92   Hedera Hashgraph  HBAR/BTC   $494 121     $0.033927   0.06% Spot Percentage Недавно 
- 93   Waltonchain  WTC/BTC   $486 498     $0.681844   0.06% Spot Percentage Недавно 
- 94   IOTA  IOTA/USDT   $484 401     $0.267903   0.06% Spot Percentage Недавно 
- 95   Genesis Vision  GVT/ETH   $473 350     $1.18   0.06% Spot Percentage Недавно 
- 96   Algorand  ALGO/BTC   $471 426     $0.228409   0.06% Spot Percentage Недавно 
- 97   XRP  XRP/BNB   $459 419     $0.291906   0.06% Spot Percentage Недавно 
- 98   Celer Network  CELR/BTC   $444 966     $0.004458   0.05% Spot Percentage Недавно 
- 99   Enigma  ENG/BTC   $443 915     $0.307407   0.05% Spot Percentage Недавно 
- 100   Viberate   VIB/BTC   $437 374     $0.025177   0.05% Spot Percentage Недавно 
- 101   EOS  EOS/ETH   $431 200     $2.96   0.05% Spot Percentage Недавно 
- 102   Aeron  ARN/BTC   $429 639     $0.183834   0.05% Spot Percentage Недавно 
- 103   Dash  DASH/USDT   $423 674     $69.13   0.05% Spot Percentage Недавно 
- 104   IOST  IOST/USDT    $422 866     $0.004426   0.05% Spot Percentage Недавно 
- 105   Ethereum  ETH/TUSD   $419 553     $176.82   0.05% Spot Percentage Недавно 
- 106   IoTeX  IOTX/BTC   $415 176     $0.004458   0.05% Spot Percentage Недавно 
- 107   OmiseGO  OMG/BTC   $409 604     $0.811444   0.05% Spot Percentage Недавно 
- 108   Dash  DASH/BTC   $408 961      $69.06   0.05% Spot Percentage Недавно 
- 109   Ethereum  ETH/PAX   $403 986     $177.09   0.05% Spot Percentage Недавно 
- 110   QuarkChain  QKC/BTC   $403 113     $0.005118   0.05% Spot Percentage Недавно 
- 111   Lunyr  LUN/BTC   $392 353     $0.962707   0.05% Spot Percentage Недавно 
- 112   0x  ZRX/ETH   $390 039     $0.325404   0.05% Spot Percentage Недавно 
- 113   Harmony  ONE/USDT   $389 803     $0.005862   0.05% Spot Percentage Недавно 
- 114   QLC Chain  QLC/BTC   $380 689      $0.017748   0.05% Spot Percentage Недавно 
- 115   Blox  CDT/BTC   $374 018     $0.013458   0.05% Spot Percentage Недавно 
- 116   Fantom  FTM/BTC   $368 376     $0.011639    0.05% Spot Percentage Недавно 
- 117   Aion  AION/BTC   $365 923     $0.069340   0.04% Spot Percentage Недавно 
- 118   Steem  STEEM/BTC   $358 350     $0.140113   0.04% Spot Percentage Недавно 
- 119   Qtum  QTUM/USDT   $352 915     $1.72   0.04% Spot Percentage Недавно 
- 120   Insolar  INS/BTC   $351 554     $0.200013   0.04%  Spot Percentage Недавно 
- 121   VeChain  VET/BTC   $348 488     $0.003384   0.04% Spot Percentage Недавно 
- 122   Horizen  ZEN/BTC   $337 219     $3.86   0.04% Spot  Percentage Недавно 
- 123   SingularityNET  AGI/BTC   $327 785     $0.022536   0.04% Spot Percentage Недавно 
- 124   Kyber Network  KNC/BTC   $322 624     $0.177808   0.04% Spot Percentage  Недавно 
- 125   Dusk Network  DUSK/BTC   $320 912     $0.061085   0.04% Spot Percentage Недавно 
- 126   Holo  HOT/BNB   $316 341     $0.000952   0.04% Spot Percentage Недавно  
- 127   VeChain  VET/USDT   $311 199     $0.003353   0.04% Spot Percentage Недавно 
- 128   ICON  ICX/BTC   $306 421     $0.157253   0.04% Spot Percentage Недавно 
-  129   Theta Fuel  TFUEL/BTC   $306 240     $0.003550   0.04% Spot Percentage Недавно 
- 130   ICON  ICX/USDT   $300 636     $0.157579   0.04% Spot Percentage Недавно 
- 131    Loopring  LRC/BTC   $293 148     $0.031368   0.04% Spot Percentage Недавно 
- 132   Perlin  PERL/BTC   $291 746     $0.032937   0.04% Spot Percentage Недавно 
- 133   Chainlink  LINK/USDC   $289 497     $2.62   0.04% Spot Percentage Недавно 
- 134   WePower  WPR/BTC   $285 113     $0.007759   0.04% Spot Percentage Недавно 
- 135   NEM  XEM/BTC   $282 424     $0.040952   0.03% Spot Percentage Недавно 
- 136   GXChain  GXS/BTC   $275 858     $0.469712   0.03% Spot Percentage Недавно 
- 137   Loom Network  LOOM/BTC   $260 450     $0.022783   0.03% Spot Percentage Недавно 
- 138   Syscoin  SYS/BTC   $259 847     $0.024522   0.03% Spot Percentage Недавно 
- 139    Nexus  NXS/BTC   $257 473     $0.240264   0.03% Spot Percentage Недавно 
- 140   Everex  EVX/BTC   $254 936     $0.345710   0.03% Spot Percentage Недавно 
- 141   Enjin Coin  ENJ/BTC   $254 282     $0.056958   0.03% Spot Percentage Недавно 
- 142   Binance Coin  BNB/BUSD   $247 512     $18.31   0.03% Spot Percentage Недавно 
- 143   Nano  NANO/USDT   $247 471     $0.827137   0.03% Spot Percentage Недавно 
- 144   Chiliz  CHZ/BNB   $247 211     $0.009783   0.03% Spot Percentage Недавно 
- 145   Litecoin  LTC/ETH   $246 723     $55.13   0.03% Spot Percentage Недавно 
- 146   Aeternity  AE/BTC   $246 060     $0.185936   0.03% Spot Percentage Недавно 
- 147   Verge  XVG/BTC    $244 337     $0.003468   0.03% Spot Percentage Недавно 
- 148   Wanchain  WAN/BTC   $240 040     $0.197537   0.03% Spot Percentage Недавно 
- 149   OAX  OAX/BTC   $237 060     $0.066960   0.03% Spot Percentage Недавно 
- 150   Band Protocol  BAND/USDT   $235 573     $0.341153   0.03% Spot Percentage Недавно 
- 151   Skycoin  SKY/BTC    $234 281     $0.707416   0.03% Spot Percentage Недавно 
- 152   Ankr  ANKR/BTC   $231 478     $0.002311   0.03% Spot Percentage Недавно 
- 153   USD Coin  USDC/PAX   $230 820      $1.00   0.03% Spot Percentage Недавно 
- 154   MCO  MCO/BTC   $227 331     $3.58   0.03% Spot Percentage Недавно 
- 155   Ripio Credit Network  RCN/BTC   $224 366     $0.038797   0.03% Spot Percentage Недавно 
- 156   GoChain  GO/BTC   $223 722     $0.008915   0.03% Spot Percentage Недавно 
- 157   HyperCash  HC/BTC   $222 247     $1.42   0.03% Spot Percentage Недавно 
- 158   XRP  XRP/TUSD   $220 906     $0.291531   0.03% Spot Percentage Недавно 
- 159   Decred  DCR/BTC   $218 689     $14.37    0.03% Spot Percentage Недавно 
- 160   TRON  TRX/ETH   $217 298     $0.015681   0.03% Spot Percentage Недавно 
- 161   Neblio  NEBL/BTC   $216 637     $0.450463    0.03% Spot Percentage Недавно 
- 162   Bitcoin Cash  BCHABC/USDC   $215 971     $232.67   0.03% Spot Percentage Недавно 
- 163   Bitcoin Gold  BTG/BTC   $214 458     $7.64   0.03% Spot Percentage Недавно 
- 164   XRP  XRP/USDC   $212 241     $0.292698   0.03% Spot Percentage Недавно 
- 165   Quantstamp  QSP/BTC   $211 604     $0.011969   0.03% Spot Percentage Недавно 
- 166   Ambrosus  AMB/BTC   $210 985     $0.034340   0.03% Spot Percentage Недавно 
- 167   Zilliqa  ZIL/BTC   $210 553     $0.005201   0.03% Spot Percentage Недавно 
- 168   THETA  THETA/BTC   $209 813     $0.085024   0.03% Spot Percentage Недавно 
- 169   Waves  WAVES/USDT   $203 712     $0.811279   0.03% Spot Percentage Недавно 
- 170   Storm  STORM/BTC   $202 805     $0.001321   0.02% Spot Percentage Недавно 
- 171   Populous  PPT/BTC   $201 538     $0.391523   0.02% Spot Percentage Недавно 
- 172   OmiseGO  OMG/USDT   $200 534     $0.810677   0.02% Spot Percentage Недавно 
- 173   Litecoin  LTC/BNB   $197 833     $55.12   0.02% Spot Percentage Недавно 
- 174    Ren  REN/USDT   $197 816     $0.056236   0.02% Spot Percentage Недавно 
- 175   Cardano  ADA/ETH   $197 665     $0.039337   0.02% Spot Percentage Недавно 
- 176   iExec RLC  RLC/BTC   $193 661     $0.303591   0.02% Spot Percentage Недавно 
- 177   Ravencoin  RVN/USDT   $187 758     $0.031114   0.02% Spot Percentage Недавно 
- 178   BlockMason Credit Protocol  BCPT/BTC   $187 055     $0.030130   0.02% Spot Percentage Недавно 
- 179   Komodo  KMD/BTC   $184 211     $0.559790   0.02% Spot Percentage Недавно 
- 180   SONM  SNM/BTC   $183 800     $0.012054   0.02% Spot Percentage Недавно 
- 181   Bread  BRD/BTC   $177 253     $0.338445   0.02% Spot Percentage Недавно 
- 182   Celer Network  CELR/USDT   $176 143     $0.004436   0.02% Spot Percentage Недавно 
- 183   Stratis  STRAT/BTC   $171 435     $0.313747   0.02% Spot Percentage Недавно 
- 184   Bitcoin Cash  BCHABC/TUSD   $167 608     $231.97   0.02% Spot Percentage Недавно 
- 185   Golem  GNT/BTC   $166 824     $0.044833   0.02% Spot Percentage Недавно 
- 186   Ethos  BQX/BTC   $164 068     $0.049869   0.02% Spot Percentage Недавно 
- 187   Po.et  POE/BTC   $163 842     $0.002477   0.02% Spot Percentage Недавно 
- 188   Groestlcoin   GRS/BTC   $159 875     $0.195018   0.02% Spot Percentage Недавно 
- 189   Qtum  QTUM/BTC   $159 392     $1.72   0.02% Spot Percentage Недавно 
- 190   Streamr DATAcoin  DATA/BTC   $153 816     $0.013125   0.02% Spot Percentage Недавно 
- 191   Agrello  DLT/BTC   $152 162     $0.040704   0.02% Spot Percentage Недавно 
- 192   VIBE  VIBE/BTC   $151 699     $0.019399   0.02% Spot Percentage Недавно 
- 193   WINk  WIN/TRX   $151 146     $0.000144   0.02% Spot Percentage Недавно 
- 194   Bancor  BNT/BTC   $148 601     $0.354625   0.02% Spot Percentage Недавно 
- 195   Hedera Hashgraph  HBAR/USDT   $147 546     $0.033874   0.02% Spot Percentage Недавно 
- 196   Decentraland  MANA/BTC   $144 545     $0.029965   0.02% Spot Percentage Недавно 
- 197   Binance Coin  BNB/USDC   $143 397     $18.27   0.02% Spot Percentage Недавно 
- 198   Contentos  COS/USDT    $142 752     $0.016320   0.02% Spot Percentage Недавно 
- 199   Selfkey  KEY/BTC   $141 802     $0.001486   0.02% Spot Percentage Недавно 
- 200   Monetha  MTH/BTC   $141 324      $0.015027   0.02% Spot Percentage Недавно 
- 201   OST  OST/BTC   $139 554     $0.011804   0.02% Spot Percentage Недавно 
- 202   TRON  TRX/BNB   $135 859     $0.015639   0.02% Spot Percentage Недавно 
- 203   Beam  BEAM/BNB   $135 709      $0.582714   0.02% Spot Percentage Недавно 
- 204   Dusk Network  DUSK/USDT   $134 641     $0.060723   0.02% Spot Percentage Недавно 
- 205   Mithril  MITH/BTC   $132 210     $0.012630   0.02% Spot Percentage Недавно 
- 206   Pundi X  NPXS/ETH   $131 260     $0.000180   0.02% Spot Percentage Недавно 
- 207   Litecoin  LTC/USDC   $131 237      $55.08   0.02% Spot Percentage Недавно 
- 208   Metal  MTL/USDT   $129 427     $0.305343   0.02% Spot Percentage Недавно 
- 209   Matic Network  MATIC/BNB   $127 891     $0.014769   0.02% Spot Percentage Недавно 
- 210   NKN  NKN/BNB   $127 521     $0.034977   0.02% Spot Percentage Недавно 
- 211   Elrond  ERD/USDT   $127 148     $0.001502   0.02% Spot Percentage Недавно 
- 212   Siacoin  SC/BTC   $122 934     $0.002064   0.02% Spot Percentage Недавно 
- 213   Pundi X  NPXS/USDT   $122 842     $0.000180    0.02% Spot Percentage Недавно 
- 214   Nebulas  NAS/BTC   $121 377     $0.477125   0.01% Spot Percentage Недавно 
- 215   Litecoin  LTC/TUSD   $117 757     $55.08   0.01% Spot Percentage Недавно 
- 216   Perlin  PERL/USDT   $116 622     $0.033021   0.01% Spot Percentage Недавно 
- 217   NEO  NEO/ETH   $116 371     $7.41   0.01% Spot Percentage Недавно 
- 218   IOST  IOST/BTC   $115 791     $0.004458   0.01% Spot Percentage Недавно 
- 219   Polymath  POLY/BTC   $114 978     $0.025920   0.01% Spot Percentage Недавно 
- 220   Storm  STORM/USDT   $114 832     $0.001362   0.01% Spot Percentage Недавно 
- 221   Chainlink  LINK/TUSD   $113 049     $2.62   0.01% Spot Percentage Недавно  
- 222   SingularDTV  SNGLS/BTC   $113 012     $0.009990   0.01% Spot Percentage Недавно 
- 223   NULS  NULS/BTC   $112 706     $0.329035   0.01% Spot Percentage Недавно 
-  224   TomoChain  TOMO/BTC   $111 781     $0.312030   0.01% Spot Percentage Недавно 
- 225   Monero  XMR/ETH   $110 637     $57.86   0.01% Spot Percentage Недавно 
- 226   Raiden Network Token  RDN/BTC   $108 797     $0.157006   0.01% Spot Percentage Недавно 
- 227   Tezos  XTZ/BTC   $108 291     $0.880784   0.01% Spot Percentage Недавно 
- 228   AirSwap  AST/BTC   $108 090     $0.026415   0.01% Spot Percentage Недавно 
- 229   Everex  EVX/ETH   $107 342     $0.345936   0.01% Spot Percentage Недавно 
- 230   Lisk  LSK/BTC   $105 877     $0.776936   0.01% Spot Percentage Недавно 
- 231   BitTorrent  BTT/BNB   $105 786     $0.000421   0.01% Spot Percentage Недавно 
- 232   Status  SNT/BTC   $104 567     $0.012465   0.01% Spot Percentage Недавно 
- 233   0x  ZRX/BNB   $103 208     $0.324320   0.01% Spot Percentage Недавно 
- 234    Ark  ARK/BTC   $102 645     $0.184120   0.01% Spot Percentage Недавно 
- 235   OmiseGO  OMG/ETH   $102 327     $0.810326   0.01% Spot Percentage Недавно 
- 236   EOS   EOS/BNB   $101 989     $2.95   0.01% Spot Percentage Недавно 
- 237   Cardano  ADA/BNB   $101 407     $0.039318   0.01% Spot Percentage Недавно 
- 238   CyberMiles  CMT/BTC   $100 824     $0.016179   0.01% Spot Percentage Недавно 
- 239   PIVX  PIVX/BTC   $98 610     $0.246291   0.01% Spot Percentage Недавно 
- 240   Ontology Gas  ONG/BTC    $97 555     $0.135131   0.01% Spot Percentage Недавно 
- 241   Ardor  ARDR/BTC   $97 111     $0.050447   0.01% Spot Percentage Недавно 
- 242   Civic  CVC/BTC    $95 756     $0.038962   0.01% Spot Percentage Недавно 
- 243   aelf  ELF/BTC   $94 236     $0.081970   0.01% Spot Percentage Недавно 
- 244   Eidoo  EDO/BTC   $93 935     $0.298327   0.01% Spot Percentage Недавно 
- 245   Bluzelle  BLZ/BTC   $92 598     $0.026415   0.01% Spot Percentage Недавно 
- 246   TRON  TRX/USDC   $91 813      $0.015652   0.01% Spot Percentage Недавно 
- 247   WINk  WIN/BNB   $90 547     $0.000144   0.01% Spot Percentage Недавно 
- 248   Zilliqa  ZIL/USDT   $90 019     $0.005289   0.01% Spot Percentage Недавно 
- 249   Stellar  XLM/ETH   $87 322     $0.063772   0.01% Spot Percentage Недавно 
- 250   Theta Fuel  TFUEL/USDT   $85 174     $0.003453   0.01% Spot Percentage Недавно 
- 251   Viacoin  VIA/BTC   $83 177     $0.223503   0.01% Spot Percentage Недавно 
- 252   Storj  STORJ/BTC   $82 566     $0.125003   0.01% Spot Percentage Недавно 
- 253   Basic Attention Token  BAT/ETH   $79 387     $0.221379   0.01% Spot Percentage Недавно 
- 254   Tierion  TNT/ETH   $79 317     $0.079581   0.01% Spot Percentage Недавно 
- 255   Request  REQ/BTC   $79 072     $0.012547   0.01% Spot Percentage Недавно 
- 256   IOTA  IOTA/ETH   $76 444     $0.267606   0.01% Spot Percentage Недавно 
- 257   USD Coin  USDC/TUSD   $76 072     $1.00   0.01% Spot Percentage Недавно 
- 258   YOYOW  YOYO/BTC   $75 867     $0.013458   0.01% Spot Percentage Недавно 
- 259   Cindicator  CND/BTC    $75 737     $0.007842   0.01% Spot Percentage Недавно 
- 260   NEO  NEO/USDC   $75 664     $7.40   0.01% Spot Percentage Недавно 
- 261   Fantom  FTM/USDT   $74 897      $0.011643   0.01% Spot Percentage Недавно 
- 262   Gas  GAS/BTC   $74 462     $1.23   0.01% Spot Percentage Недавно 
- 263   Ethereum Classic  ETC/ETH   $73 506      $4.56   0.01% Spot Percentage Недавно 
- 264   Gifto  GTO/BTC   $73 444     $0.012795   0.01% Spot Percentage Недавно 
- 265   EOS  EOS/USDC   $73 399     $2.95   0.01% Spot Percentage Недавно 
- 266   Dent  DENT/USDT   $73 183     $0.000259   0.01% Spot Percentage Недавно 
- 267   Tael  WABI/BTC   $70 643     $0.125142   0.01% Spot Percentage Недавно 
- 268   Augur  REP/BTC   $70 047     $8.26   0.01% Spot Percentage Недавно 
- 269   Nucleus Vision  NCASH/BTC   $70 001     $0.000991    0.01% Spot Percentage Недавно 
- 270   Wanchain  WAN/USDT   $69 811     $0.197927   0.01% Spot Percentage Недавно 
- 271   Kyber Network  KNC/ETH   $68 215     $0.177858   0.01% Spot Percentage Недавно 
- 272   Zcoin  XZC/BTC   $67 326     $4.90   0.01% Spot Percentage Недавно 
- 273   Monero  XMR/BNB   $67 294     $57.91   0.01%  Spot Percentage Недавно 
- 274   XRP  XRP/PAX   $66 909     $0.292096   0.01% Spot Percentage Недавно 
- 275   DigixDAO  DGD/BTC   $66 525     $12.39   0.01% Spot Percentage Недавно 
- 276   Viberate  VIB/ETH   $66 412     $0.025408   0.01% Spot Percentage Недавно 
- 277   TRON  TRX/TUSD   $66 234     $0.015633   0.01% Spot Percentage Недавно  
- 278   TRON  TRX/PAX   $65 199     $0.015702   0.01% Spot Percentage Недавно 
- 279   Binance Coin  BNB/TUSD   $65 142     $18.34   0.01% Spot Percentage Недавно 
-  280   BitTorrent  BTT/TRX   $62 910     $0.000421   0.01% Spot Percentage Недавно 
- 281   FunFair  FUN/BTC   $62 821     $0.003467   0.01% Spot Percentage Недавно 
- 282   TRON  TRX/XRP   $62 634     $0.015646   0.01% Spot Percentage Недавно 
- 283   Power Ledger  POWR/BTC   $61 330     $0.045319   0.01% Spot Percentage Недавно 
- 284   Aion  AION/ETH   $61 312     $0.070209   0.01% Spot Percentage Недавно 
- 285   Bitcoin Diamond  BCD/BTC   $60 908     $0.470522   0.01% Spot Percentage Недавно 
- 286   THETA  THETA/USDT   $60 268     $0.085795   0.01% Spot Percentage Недавно 
- 287   Enjin Coin  ENJ/USDT   $59 939     $0.057120   0.01% Spot Percentage Недавно 
- 288   Tezos  XTZ/USDT   $59 777     $0.876719   0.01% Spot Percentage Недавно 
- 289   Cardano  ADA/USDC   $59 513     $0.039186   0.01% Spot Percentage Недавно 
- 290   Metal  MTL/ETH   $58 560     $0.303943   0.01% Spot Percentage Недавно 
- 291   Ankr  ANKR/USDT   $57 906     $0.002320   0.01% Spot Percentage Недавно 
- 292   BitTorrent  BTT/TUSD   $57 867     $0.000420   0.01% Spot Percentage Недавно 
- 293   Dent  DENT/ETH   $57 043     $0.000258   0.01% Spot Percentage Недавно 
- 294   Moeda Loyalty Points  MDA/ETH   $56 919     $0.793010   0.01% Spot Percentage Недавно 
- 295   Aave  LEND/ETH   $56 454     $0.008188   0.01% Spot Percentage Недавно 
- 296   Chainlink   LINK/PAX   $56 081     $2.63   0.01% Spot Percentage Недавно 
- 297   Nano  NANO/ETH   $55 466     $0.822529   0.01% Spot Percentage Недавно 
- 298   BitShares  BTS/BTC   $55 057     $0.026503   0.01% Spot Percentage Недавно 
- 299   NEO  NEO/BNB   $54 628     $7.40   0.01% Spot Percentage Недавно 
- 300   Storm  STORM/ETH    $53 467     $0.001371   0.01% Spot Percentage Недавно 
- 301   Basic Attention Token  BAT/BNB   $53 057     $0.221402   0.01% Spot Percentage Недавно 
- 302   Cocos-BCX  COCOS/BNB    $52 847     $0.000939   0.01% Spot Percentage Недавно 
- 303   VeChain  VET/ETH   $52 730     $0.003353   0.01% Spot Percentage Недавно 
- 304   TomoChain  TOMO/USDT   $51 919     $0.311745   0.01% Spot Percentage Недавно 
- 305   WINk  WIN/USDC   $51 811     $0.000143   0.01% Spot Percentage Недавно 
- 306   Litecoin  LTC/PAX   $50 562      $55.13   0.01% Spot Percentage Недавно 
- 307   NULS  NULS/USDT   $50 013     $0.330915   0.01% Spot Percentage Недавно 
- 308   Zcash  ZEC/ETH   $48 744     $36.42   0.01% Spot Percentage Недавно 
- 309   Aeron  ARN/ETH   $46 440     $0.185353   0.01% Spot Percentage Недавно 
- 310   Bitcoin  BTC/USDS   $45 453     $8186.10   0.01% Spot Percentage Недавно 
- 311   PIVX  PIVX/ETH   $44 624     $0.245644   0.01% Spot Percentage Недавно 
- 312   Qtum  QTUM/ETH   $44 554     $1.72   0.01% Spot Percentage Недавно 
- 313   NavCoin  NAV/BTC   $44 250     $0.086198   0.01% Spot Percentage Недавно 
- 314   Horizen  ZEN/ETH   $44 215     $3.89    0.01% Spot Percentage Недавно 
- 315   Dogecoin  DOGE/BNB   $44 164     $0.002607   0.01% Spot Percentage Недавно 
- 316   Zilliqa  ZIL/ETH   $41 665     $0.005288   0.01% Spot Percentage Недавно 
- 317   Stellar  XLM/BNB   $41 646     $0.063729   0.01% Spot Percentage Недавно 
- 318   Siacoin  SC/ETH   $41 017     $0.002044   0.01%  Spot Percentage Недавно 
- 319   Ontology  ONT/ETH   $40 190     $0.594569   0.00% Spot Percentage Недавно 
- 320   AdEx  ADX/BTC   $40 049     $0.074061   0.00% Spot  Percentage Недавно 
- 321   Verge  XVG/ETH   $39 752     $0.003385   0.00% Spot Percentage Недавно 
- 322   Mainframe  MFT/USDT   $39 654     $0.000926   0.00% Spot Percentage Недавно 
- 323   Ontology Gas  ONG/USDT   $39 515     $0.134996   0.00% Spot Percentage Недавно 
- 324   Enjin Coin  ENJ/ETH   $39 124     $0.056933   0.00% Spot Percentage Недавно  
- 325   Basic Attention Token  BAT/USDC   $38 577     $0.221516   0.00% Spot Percentage Недавно 
- 326   ICON  ICX/BNB   $36 692     $0.157673   0.00% Spot Percentage Недавно 
- 327   Fetch  FET/BNB   $36 347     $0.040581   0.00% Spot Percentage Недавно 
- 328   Ravencoin  RVN/BNB   $36 151     $0.031168   0.00% Spot Percentage Недавно 
- 329    Bluzelle  BLZ/ETH   $36 017     $0.026515   0.00% Spot Percentage Недавно 
- 330   Mainframe  MFT/ETH   $35 940     $0.000925   0.00% Spot Percentage Недавно 
- 331   Waves  WAVES/ETH   $35 855     $0.812979   0.00% Spot Percentage Недавно 
- 332   BitTorrent  BTT/USDC   $35 817     $0.000421   0.00% Spot Percentage Недавно 
- 333   Mainframe  MFT/BTC   $35 190     $0.000908   0.00% Spot Percentage Недавно 
- 334   Cardano  ADA/TUSD   $35 154     $0.039363   0.00% Spot Percentage Недавно 
- 335   Loopring  LRC/ETH   $34 460     $0.031511   0.00% Spot Percentage Недавно 
- 336   Binance Coin  BNB/PAX   $33 194     $18.35   0.00% Spot Percentage Недавно 
- 337   BitTorrent  BTT/PAX   $32 911     $0.000422   0.00% Spot Percentage Недавно 
- 338   HyperCash  HC/USDT   $32 862     $1.42   0.00% Spot Percentage Недавно 
- 339   Zcash  ZEC/USDC   $32 549     $36.49   0.00% Spot Percentage Недавно 
- 340   Aion  AION/BNB   $32 262     $0.070010   0.00% Spot Percentage Недавно 
- 341   Stellar  XLM/PAX   $31 809     $0.063801   0.00% Spot Percentage Недавно 
- 342   Algorand  ALGO/BNB   $31 639     $0.228727   0.00% Spot Percentage Недавно 
- 343   Time New Bank   TNB/BTC   $31 249     $0.002642   0.00% Spot Percentage Недавно 
- 344   Zilliqa  ZIL/BNB   $31 212     $0.005276   0.00% Spot Percentage Недавно 
- 345   Wanchain  WAN/ETH   $31 021     $0.196834   0.00% Spot Percentage Недавно 
- 346   QLC Chain  QLC/ETH   $30 818     $0.017904   0.00% Spot Percentage Недавно 
- 347   POA  POA/ETH   $30 779     $0.018521   0.00% Spot Percentage Недавно 
- 348   IOTA  IOTA/BNB   $30 302     $0.267082   0.00% Spot Percentage Недавно 
- 349   Dash  DASH/ETH   $29 778     $69.09   0.00% Spot Percentage Недавно 
- 350   Cosmos  ATOM/BNB   $29 708     $2.92   0.00% Spot Percentage Недавно 
- 351   VeChain  VET/BNB   $28 225      $0.003351   0.00% Spot Percentage Недавно 
- 352   Harmony  ONE/BNB   $27 959     $0.005869   0.00% Spot Percentage Недавно 
- 353   Dusk Network  DUSK/BNB   $27 583      $0.060799   0.00% Spot Percentage Недавно 
- 354   Mithril  MITH/USDT   $27 116     $0.012586   0.00% Spot Percentage Недавно 
- 355   Enigma  ENG/ETH   $27 090      $0.309841   0.00% Spot Percentage Недавно 
- 356   StableUSD  USDS/USDT   $27 082     $1.00   0.00% Spot Percentage Недавно 
- 357   Band Protocol  BAND/BNB   $26 869     $0.334575   0.00% Spot Percentage Недавно 
- 358   Gifto  GTO/USDT   $26 693     $0.012817   0.00% Spot Percentage Недавно 
- 359   Stratis  STRAT/ETH   $26 275      $0.314793   0.00% Spot Percentage Недавно 
- 360   Blox  CDT/ETH   $25 180     $0.013367   0.00% Spot Percentage Недавно 
- 361   Bitcoin Cash  BCHABC/PAX   $25 098     $232.72    0.00% Spot Percentage Недавно 
- 362   Nano  NANO/BNB   $24 720     $0.834149   0.00% Spot Percentage Недавно 
- 363   Ethereum Classic  ETC/BNB   $24 576     $4.58    0.00% Spot Percentage Недавно 
- 364   Decred  DCR/BNB   $24 391     $14.38   0.00% Spot Percentage Недавно 
- 365   MCO  MCO/ETH   $24 329     $3.60   0.00% Spot Percentage Недавно 
- 366   FunFair  FUN/USDT   $24 283     $0.003494   0.00% Spot Percentage Недавно 
- 367   Paxos Standard  PAX/TUSD   $23 982     $1.00   0.00%  Spot Percentage Недавно 
- 368   Decentraland  MANA/ETH   $23 981     $0.030038   0.00% Spot Percentage Недавно 
- 369   Zcash  ZEC/BNB   $23 973     $36.44   0.00% Spot Percentage Недавно 
- 370   Steem  STEEM/BNB   $23 832     $0.140685   0.00% Spot Percentage Недавно 
- 371   Wanchain  WAN/BNB   $23 713     $0.197229   0.00% Spot Percentage Недавно 
- 372   Skycoin  SKY/ETH   $23 484     $0.709168   0.00% Spot Percentage Недавно 
- 373   Bread  BRD/BNB   $23 126     $0.338421   0.00% Spot Percentage Недавно 
-  374   Steem  STEEM/ETH   $23 052     $0.139888   0.00% Spot Percentage Недавно 
- 375   EOS  EOS/PAX   $23 006     $2.95   0.00% Spot Percentage Недавно 
- 376    Po.et  POE/ETH   $22 943     $0.002504   0.00% Spot Percentage Недавно 
- 377   POA  POA/BNB   $22 833     $0.018313   0.00% Spot Percentage Недавно 
- 378   Loom Network  LOOM/ETH   $22 785     $0.022911   0.00% Spot Percentage Недавно 
- 379   THETA  THETA/ETH   $22 784     $0.085666   0.00% Spot Percentage Недавно 
- 380   Red Pulse Phoenix  PHB/BNB   $22 454     $0.006578   0.00% Spot Percentage Недавно 
- 381   FunFair  FUN/ETH   $22 440     $0.003502   0.00% Spot Percentage Недавно 
- 382   Cardano  ADA/PAX   $21 829     $0.039352   0.00% Spot Percentage Недавно 
- 383   Ren  REN/BNB   $21 806     $0.056294   0.00% Spot Percentage Недавно 
- 384    Elrond  ERD/BNB   $21 620     $0.001506   0.00% Spot Percentage Недавно 
- 385   Nexus  NXS/ETH   $20 940     $0.244053   0.00% Spot Percentage Недавно 
- 386   AppCoins  APPC/ETH   $19 991     $0.038164   0.00% Spot Percentage Недавно 
- 387   Horizen  ZEN/BNB   $19 942     $3.87   0.00% Spot Percentage Недавно 
- 388   OAX  OAX/ETH   $19 853     $0.067384   0.00% Spot Percentage Недавно 
- 389   GXChain  GXS/ETH   $19 513     $0.470421   0.00% Spot Percentage Недавно 
- 390   Nucleus Vision  NCASH/ETH    $19 356     $0.000916   0.00% Spot Percentage Недавно 
- 391   Civic  CVC/USDT   $18 904     $0.039244   0.00% Spot Percentage Недавно 
- 392   Populous  PPT/ETH    $18 544     $0.391112   0.00% Spot Percentage Недавно 
- 393   Siacoin  SC/BNB   $18 521     $0.002040   0.00% Spot Percentage Недавно 
- 394   Selfkey  KEY/USDT   $18 511     $0.001451   0.00% Spot Percentage Недавно 
- 395   ICON  ICX/ETH   $18 020     $0.157927   0.00% Spot Percentage Недавно 
- 396   Basic Attention Token  BAT/PAX   $17 953     $0.224350   0.00% Spot Percentage Недавно 
- 397   Dash  DASH/BNB   $17 903     $69.02   0.00% Spot Percentage Недавно 
- 398   Ontology  ONT/BNB   $17 809      $0.595350   0.00% Spot Percentage Недавно 
- 399   Ontology  ONT/USDC   $17 808     $0.594850   0.00% Spot Percentage Недавно 
- 400   Perlin  PERL/BNB   $17 611     $0.032725   0.00% Spot Percentage Недавно 
- 401   Waltonchain  WTC/ETH   $16 916     $0.680695   0.00% Spot Percentage Недавно 
- 402   StableUSD  USDS/TUSD   $16 888      $0.990819   0.00% Spot Percentage Недавно 
- 403   Waves  WAVES/BNB   $16 672     $0.814188   0.00% Spot Percentage Недавно 
- 404   Komodo  KMD/ETH   $16 470     $0.563267   0.00% Spot Percentage Недавно 
- 405   Stellar  XLM/USDC   $16 377     $0.063687   0.00% Spot Percentage Недавно 
- 406   StableUSD  USDS/USDC   $16 304     $0.997525   0.00% Spot Percentage Недавно 
- 407   Neblio  NEBL/ETH   $15 879     $0.451675   0.00% Spot Percentage Недавно 
- 408   IoTeX  IOTX/ETH   $15 688     $0.004490    0.00% Spot Percentage Недавно 
- 409   NEO  NEO/TUSD   $15 601     $7.44   0.00% Spot Percentage Недавно 
- 410   iExec RLC  RLC/ETH   $15 065     $0.302944   0.00% Spot Percentage Недавно 
- 411   EOS  EOS/TUSD   $15 035     $2.95   0.00% Spot Percentage Недавно 
- 412   Enjin Coin  ENJ/BNB   $14 930     $0.057026   0.00% Spot Percentage Недавно 
- 413   Contentos  COS/BNB   $14 900     $0.016372   0.00% Spot Percentage Недавно 
- 414   QLC Chain  QLC/BNB   $14 849     $0.017800   0.00% Spot Percentage Недавно 
- 415   Celer Network  CELR/BNB   $14 509     $0.004434   0.00% Spot Percentage Недавно 
- 416   Storm  STORM/BNB   $14 457     $0.001357   0.00% Spot Percentage Недавно 
- 417   Bread  BRD/ETH   $13 989     $0.339233   0.00% Spot Percentage Недавно 
- 418   Theta Fuel  TFUEL/BNB   $13 956     $0.003511   0.00% Spot Percentage Недавно 
- 419   Bitcoin Gold  BTG/ETH   $13 667     $7.69   0.00% Spot Percentage Недавно 
- 420   NEM  XEM/ETH   $13 458     $0.041259   0.00% Spot Percentage Недавно 
- 421    Cosmos  ATOM/USDC   $12 809     $2.90   0.00% Spot Percentage Недавно 
- 422   Ambrosus  AMB/ETH   $12 565     $0.034689   0.00% Spot Percentage Недавно 
- 423   Zcash  ZEC/PAX   $12 253     $36.19   0.00% Spot Percentage Недавно 
- 424   Insolar  INS/ETH   $11 451     $0.199487   0.00% Spot Percentage Недавно 
- 425   NEO  NEO/PAX   $11 406     $7.47   0.00% Spot Percentage Недавно 
- 426   Quantstamp  QSP/ETH   $11 400     $0.011932   0.00% Spot Percentage Недавно 
- 427   Syscoin  SYS/ETH   $11 350     $0.024713   0.00% Spot Percentage Недавно 
- 428   Hedera Hashgraph  HBAR/BNB   $11 257     $0.033641   0.00% Spot Percentage Недавно 
- 429   Stellar  XLM/TUSD   $10 960     $0.063723   0.00% Spot Percentage Недавно 
- 430   Eidoo  EDO/ETH   $10 102     $0.297815   0.00% Spot Percentage Недавно 
- 431   OmiseGO  OMG/BNB   $10 023     $0.809427   0.00% Spot Percentage Недавно 
- 432   SingularityNET  AGI/ETH   $9 996     $0.022529   0.00% Spot Percentage Недавно 
- 433   Aeternity   AE/ETH   $9 757     $0.186753   0.00% Spot Percentage Недавно 
- 434   Nexus  NXS/BNB   $9 692     $0.240814   0.00% Spot Percentage Недавно 
- 435   HyperCash  HC/ETH   $9 548     $1.43   0.00% Spot Percentage Недавно 
- 436   Selfkey  KEY/ETH   $9 465     $0.001454   0.00% Spot Percentage Недавно 
- 437   WePower  WPR/ETH   $9 175     $0.007742   0.00% Spot Percentage Недавно 
- 438   SONM  SNM/ETH   $9 089     $0.012259   0.00% Spot Percentage Недавно 
- 439   Ripio Credit Network  RCN/ETH    $9 072     $0.039034   0.00% Spot Percentage Недавно 
- 440   Augur  REP/ETH   $8 746     $8.29   0.00% Spot Percentage Недавно 
- 441   Ethos  BQX/ETH   $8 735     $0.050091   0.00% Spot Percentage Недавно 
- 442   Ardor  ARDR/BNB   $8 718     $0.050211   0.00% Spot Percentage Недавно 
- 443   Gifto  GTO/BNB   $8 563      $0.012709   0.00% Spot Percentage Недавно 
- 444   Streamr DATAcoin  DATA/ETH   $8 454     $0.013232   0.00% Spot Percentage Недавно 
- 445   AppCoins  APPC/BNB   $8 454      $0.037962   0.00% Spot Percentage Недавно 
- 446   Loom Network  LOOM/BNB   $8 215     $0.022854   0.00% Spot Percentage Недавно 
- 447   Binance Coin  BNB/USDS   $8 183     $18.26   0.00% Spot Percentage Недавно 
- 448   Neblio  NEBL/BNB   $7 987     $0.445734   0.00% Spot Percentage Недавно 
- 449   Ankr  ANKR/BNB   $7 932     $0.002326   0.00% Spot Percentage Недавно 
- 450   NULS  NULS/BNB   $7 931     $0.328532   0.00% Spot Percentage Недавно 
- 451   Mainframe  MFT/BNB   $7 872      $0.000928   0.00% Spot Percentage Недавно 
- 452   Golem  GNT/ETH   $7 860     $0.045010   0.00% Spot Percentage Недавно 
- 453   IOST  IOST/BNB   $7 807     $0.004402    0.00% Spot Percentage Недавно 
- 454   Red Pulse Phoenix  PHB/TUSD   $7 607     $0.006766   0.00% Spot Percentage Недавно 
- 455   CyberMiles  CMT/ETH   $7 509     $0.016318    0.00% Spot Percentage Недавно 
- 456   IOST  IOST/ETH   $7 411     $0.004428   0.00% Spot Percentage Недавно 
- 457   BitShares  BTS/ETH   $7 395     $0.026772   0.00% Spot Percentage Недавно 
- 458   Ripio Credit Network  RCN/BNB   $7 306     $0.038457   0.00% Spot Percentage Недавно 
- 459   Bitcoin Diamond  BCD/ETH   $7 284     $0.473958   0.00% Spot Percentage Недавно 
- 460   NEM  XEM/BNB   $7 137     $0.040874   0.00% Spot Percentage Недавно 
- 461   Gifto  GTO/ETH   $7 126     $0.012884   0.00%  Spot Percentage Недавно 
- 462   Monetha  MTH/ETH   $7 101     $0.015102   0.00% Spot Percentage Недавно 
- 463   Dusk Network  DUSK/PAX   $7 026     $0.060502   0.00% Spot Percentage Недавно 
- 464   Algorand  ALGO/USDC   $7 004     $0.229328   0.00% Spot Percentage Недавно 
- 465   Ark  ARK/ETH   $6 853     $0.184278   0.00% Spot Percentage  Недавно 
- 466   Raiden Network Token  RDN/BNB   $6 803     $0.156941   0.00% Spot Percentage Недавно 
- 467   Fantom  FTM/BNB   $6 515     $0.011684   0.00% Spot Percentage Недавно 
- 468   Zcash  ZEC/TUSD   $6 439     $36.57   0.00% Spot Percentage Недавно 
- 469   BlockMason Credit Protocol  BCPT/ETH   $6 417     $0.030132   0.00% Spot Percentage Недавно 
- 470   Dusk Network  DUSK/USDC   $6 383     $0.061688   0.00% Spot Percentage Недавно 
- 471   Request  REQ/ETH   $6 259     $0.012680   0.00% Spot Percentage Недавно 
-  472   TomoChain  TOMO/BNB   $6 227     $0.308937   0.00% Spot Percentage Недавно 
- 473   iExec RLC  RLC/BNB   $6 155     $0.304818   0.00% Spot Percentage Недавно 
- 474   QuarkChain  QKC/ETH   $5 964     $0.005130   0.00% Spot Percentage Недавно 
- 475   Waltonchain  WTC/BNB   $5 932     $0.672080   0.00% Spot Percentage Недавно 
- 476   Bancor  BNT/ETH   $5 929     $0.357767   0.00% Spot Percentage Недавно 
- 477   district0x  DNT/ETH   $5 835     $0.006687   0.00% Spot Percentage Недавно 
- 478   VIBE  VIBE/ETH   $5 673     $0.019507   0.00% Spot Percentage Недавно 
- 479   Agrello  DLT/BNB   $5 575     $0.040868   0.00% Spot Percentage Недавно 
- 480   Ardor  ARDR/ETH   $5 521     $0.050653   0.00% Spot Percentage Недавно 
- 481   Ontology  ONT/PAX   $5 326     $0.595390   0.00% Spot Percentage Недавно 
- 482   Zcoin  XZC/BNB   $5 223     $4.92   0.00% Spot Percentage Недавно 
- 483   Power Ledger  POWR/ETH   $5 185     $0.045548   0.00% Spot Percentage Недавно 
- 484    OST  OST/ETH   $5 185     $0.011656   0.00% Spot Percentage Недавно 
- 485   aelf  ELF/ETH   $5 113     $0.082281   0.00% Spot Percentage Недавно 
- 486   Syscoin   SYS/BNB   $4 927     $0.024521   0.00% Spot Percentage Недавно 
- 487   Raiden Network Token  RDN/ETH   $4 893     $0.158917   0.00% Spot Percentage Недавно 
- 488   StableUSD   USDS/PAX   $4 747     $1.00   0.00% Spot Percentage Недавно 
- 489   Golem  GNT/BNB   $4 572     $0.044715   0.00% Spot Percentage Недавно 
- 490   DigixDAO  DGD/ETH   $4 527     $12.51   0.00% Spot Percentage Недавно 
- 491   Basic Attention Token  BAT/TUSD   $4 433     $0.221683   0.00% Spot Percentage Недавно 
- 492   Skycoin  SKY/BNB   $4 319     $0.710571   0.00% Spot Percentage Недавно 
- 493   Groestlcoin  GRS/ETH   $4 307     $0.196167   0.00% Spot Percentage Недавно 
- 494   Agrello  DLT/ETH   $4 239     $0.041139   0.00% Spot Percentage Недавно 
- 495   Tael  WABI/ETH   $4 174     $0.125109   0.00% Spot Percentage Недавно 
- 496   Zcoin  XZC/ETH   $4 139     $4.92   0.00% Spot Percentage Недавно 
- 497   MCO  MCO/BNB   $4 103     $3.59   0.00% Spot Percentage Недавно 
- 498   Waves  WAVES/USDC   $4 054     $0.818169   0.00% Spot Percentage Недавно 
- 499   Civic  CVC/ETH   $3 941     $0.038785   0.00% Spot Percentage Недавно 
- 500   Ontology Gas  ONG/BNB   $3 904      $0.138262   0.00% Spot Percentage Недавно 
- 501   Storj  STORJ/ETH   $3 792     $0.125113   0.00% Spot Percentage Недавно 
- 502   Viacoin  VIA/ETH   $3 767      $0.226014   0.00% Spot Percentage Недавно 
- 503   Ambrosus  AMB/BNB   $3 731     $0.034465   0.00% Spot Percentage Недавно 
- 504   AdEx  ADX/ETH   $3 546     $0.074368   0.00% Spot Percentage Недавно 
- 505   Tezos  XTZ/BNB   $3 272     $0.883960   0.00% Spot Percentage Недавно 
- 506   Status  SNT/ETH   $3 228     $0.012427    0.00% Spot Percentage Недавно 
- 507   Pundi X  NPXS/USDC   $3 189     $0.000179   0.00% Spot Percentage Недавно 
- 508   Time New Bank  TNB/ETH   $3 089     $0.002658    0.00% Spot Percentage Недавно 
- 509   Cindicator  CND/ETH   $2 996     $0.007918   0.00% Spot Percentage Недавно 
- 510   SingularDTV  SNGLS/ETH   $2 921     $0.009951    0.00% Spot Percentage Недавно 
- 511   Cosmos  ATOM/PAX   $2 887     $2.89   0.00% Spot Percentage Недавно 
- 512   THETA  THETA/BNB   $2 732     $0.085173   0.00% Spot Percentage Недавно 
- 513   Zcoin  XZC/XRP   $2 683     $4.90   0.00% Spot Percentage Недавно 
- 514   NULS  NULS/ETH   $2 641     $0.331502   0.00%  Spot Percentage Недавно 
- 515   Bitcoin BEP2  BTCB/BTC   $2 641     $8254.77   0.00% Spot Percentage Недавно 
- 516   Harmony  ONE/USDC   $2 633     $0.005848   0.00% Spot Percentage Недавно 
- 517   Lisk  LSK/ETH   $2 437     $0.781499   0.00% Spot Percentage Недавно 
- 518   Nebulas  NAS/ETH   $2 408     $0.475372   0.00% Spot Percentage Недавно  
- 519   Algorand  ALGO/TUSD   $2 367     $0.231191   0.00% Spot Percentage Недавно 
- 520   PIVX  PIVX/BNB   $2 307     $0.248214   0.00% Spot Percentage Недавно 
-  521   CyberMiles  CMT/BNB   $2 293     $0.016207   0.00% Spot Percentage Недавно 
- 522   Lisk  LSK/BNB   $2 222     $0.780914   0.00% Spot Percentage Недавно 
- 523   Ethereum Classic  ETC/USDC   $2 178     $4.58   0.00% Spot Percentage Недавно 
- 524   Quantstamp  QSP/BNB   $2 022     $0.011691   0.00% Spot Percentage Недавно 
- 525   Qtum  QTUM/BNB   $1 953     $1.72   0.00% Spot Percentage Недавно 
- 526   AirSwap  AST/ETH   $1 765     $0.026351   0.00% Spot Percentage Недавно 
- 527   Ethereum Classic  ETC/PAX   $1 715     $4.58   0.00% Spot Percentage Недавно 
- 528   Polymath  POLY/BNB   $1 608     $0.026132   0.00% Spot Percentage Недавно 
- 529   Ethereum Classic  ETC/TUSD   $1 581     $4.58   0.00% Spot Percentage Недавно 
- 530   YOYOW  YOYO/ETH   $1 444     $0.013581   0.00% Spot Percentage Недавно 
- 531   GoChain  GO/BNB   $1 390     $0.009096   0.00% Spot Percentage Недавно 
- 532   Viacoin  VIA/BNB   $1 274     $0.224515   0.00% Spot Percentage Недавно 
- 533   Augur  REP/BNB   $1 267     $8.28   0.00% Spot Percentage Недавно 
- 534   Perlin  PERL/USDC   $1 231     $0.032847   0.00% Spot Percentage Недавно 
- 535   BitShares  BTS/BNB   $1 183     $0.026737   0.00% Spot Percentage Недавно 
- 536   Algorand  ALGO/PAX   $1 127     $0.229868   0.00% Spot Percentage Недавно 
- 537   BlockMason Credit Protocol  BCPT/BNB   $1 062     $0.029887   0.00% Spot Percentage Недавно 
- 538   SingularityNET  AGI/BNB   $1 057     $0.022452   0.00% Spot Percentage Недавно 
- 539   Aeternity   AE/BNB   $1 045     $0.188680   0.00% Spot Percentage Недавно 
- 540   Tael  WABI/BNB   $1 043     $0.125040   0.00% Spot Percentage Недавно 
- 541   Cindicator  CND/BNB   $1 015     $0.007748   0.00% Spot Percentage Недавно 
- 542   Mithril  MITH/BNB   $954     $0.012544   0.00% Spot Percentage Недавно 
- 543   Bluzelle  BLZ/BNB   $950     $0.026334   0.00% Spot Percentage Недавно 
- 544   NavCoin  NAV/BNB   $917     $0.088872   0.00% Spot Percentage Недавно 
- 545   Power Ledger  POWR/BNB    $915     $0.045599   0.00% Spot Percentage Недавно 
- 546   OST  OST/BNB   $857     $0.011605   0.00% Spot Percentage Недавно 
- 547   NavCoin  NAV/ETH   $817     $0.086480   0.00% Spot Percentage Недавно 
- 548   YOYOW  YOYO/BNB   $736     $0.013702   0.00% Spot Percentage Недавно 
- 549   Civic  CVC/BNB   $697      $0.039171   0.00% Spot Percentage Недавно 
- 550   Waves  WAVES/TUSD   $680     $0.810270   0.00% Spot Percentage Недавно 
- 551   TomoChain  TOMO/USDC   $549     $0.310544   0.00% Spot Percentage Недавно 
- 552   Fantom  FTM/USDC   $428     $0.011466   0.00% Spot Percentage Недавно 
- 553   AdEx  ADX/BNB   $320     $0.074263   0.00% Spot Percentage Недавно 
- 554   Nebulas  NAS/BNB   $311     $0.482177   0.00% Spot Percentage Недавно 
- 555   Cosmos  ATOM/TUSD   $56      $2.96   0.00% Spot Percentage Недавно 
- 556   Binance GBP Stable Coin  BGBP/USDC   $16     $1.31   0.00% Spot Percentage Недавно 
+Holo  HOT/ETH   $1 115 576     $0.000953   0.14% Spot Percentage Недавно 
+XRP  XRP/ETH   $732 602     $0.292379   0.09% Spot  Percentage Недавно 
+Binance Coin  BNB/ETH   $723 529     $18.33   0.09% Spot Percentage Недавно 
+Genesis Vision  GVT/ETH   $473 350     $1.18   0.06% Spot Percentage Недавно 
+EOS  EOS/ETH   $431 200     $2.96   0.05% Spot Percentage Недавно 
+0x ZRX/ETH   $390 039     $0.325404   0.05% Spot Percentage Недавно 
+TRON  TRX/ETH   $217 298     $0.015681   0.03% Spot Percentage Недавно 
+NEO  NEO/ETH   $116 371     $7.41   0.01% Spot Percentage Недавно 
+Monero  XMR/ETH   $110 637     $57.86   0.01% Spot Percentage Недавно 
+Everex  EVX/ETH   $107 342     $0.345936   0.01% Spot Percentage Недавно 
+OmiseGO  OMG/ETH   $102 327     $0.810326   0.01% Spot Percentage Недавно 
+Stellar  XLM/ETH   $87 322     $0.063772   0.01% Spot Percentage Недавно 
+Basic Attention Token  BAT/ETH   $79 387     $0.221379   0.01% Spot Percentage Недавно 
+Tierion  TNT/ETH   $79 317     $0.079581   0.01% Spot Percentage Недавно 
+Viberate  VIB/ETH   $66 412     $0.025408   0.01% Spot Percentage Недавно 
+Metal  MTL/ETH   $58 560     $0.303943   0.01% Spot Percentage Недавно 
+VeChain  VET/ETH   $52 730     $0.003353   0.01% Spot Percentage Недавно 
+Aeron  ARN/ETH   $46 440     $0.185353   0.01% Spot Percentage Недавно 
+Horizen  ZEN/ETH   $44 215     $3.89    0.01% Spot Percentage Недавно 
+Zilliqa  ZIL/ETH   $41 665     $0.005288   0.01% Spot Percentage Недавно 
+Ontology  ONT/ETH   $40 190     $0.594569   0.00% Spot Percentage Недавно 
+Verge  XVG/ETH   $39 752     $0.003385   0.00% Spot Percentage Недавно 
+Enjin Coin  ENJ/ETH   $39 124     $0.056933   0.00% Spot Percentage Недавно  
+Bluzelle  BLZ/ETH   $36 017     $0.026515   0.00% Spot Percentage Недавно 
+Mainframe  MFT/ETH   $35 940     $0.000925   0.00% Spot Percentage Недавно 
+Wanchain  WAN/ETH   $31 021     $0.196834   0.00% Spot Percentage Недавно 
+Enigma  ENG/ETH   $27 090      $0.309841   0.00% Spot Percentage Недавно 
+Blox  CDT/ETH   $25 180     $0.013367   0.00% Spot Percentage Недавно 
+MCO  MCO/ETH   $24 329     $3.60   0.00% Spot Percentage Недавно 
+Skycoin  SKY/ETH   $23 484     $0.709168   0.00% Spot Percentage Недавно 
+Po.et  POE/ETH   $22 943     $0.002504   0.00% Spot Percentage Недавно 
+FunFair  FUN/ETH   $22 440     $0.003502   0.00% Spot Percentage Недавно 
+Nexus  NXS/ETH   $20 940     $0.244053   0.00% Spot Percentage Недавно 
+OAX  OAX/ETH   $19 853     $0.067384   0.00% Spot Percentage Недавно 
+GXChain  GXS/ETH   $19 513     $0.470421   0.00% Spot Percentage Недавно 
+Populous  PPT/ETH    $18 544     $0.391112   0.00% Spot Percentage Недавно 
+ICON  ICX/ETH   $18 020     $0.157927   0.00% Spot Percentage Недавно 
+Komodo  KMD/ETH   $16 470     $0.563267   0.00% Spot Percentage Недавно 
+Bread  BRD/ETH   $13 989     $0.339233   0.00% Spot Percentage Недавно 
+Bitcoin Gold  BTG/ETH   $13 667     $7.69   0.00% Spot Percentage Недавно 
+NEM  XEM/ETH   $13 458     $0.041259   0.00% Spot Percentage Недавно 
+Ambrosus  AMB/ETH   $12 565     $0.034689   0.00% Spot Percentage Недавно 
+Insolar  INS/ETH   $11 451     $0.199487   0.00% Spot Percentage Недавно 
+Quantstamp  QSP/ETH   $11 400     $0.011932   0.00% Spot Percentage Недавно 
+Syscoin  SYS/ETH   $11 350     $0.024713   0.00% Spot Percentage Недавно 
+Eidoo  EDO/ETH   $10 102     $0.297815   0.00% Spot Percentage Недавно 
+SingularityNET  AGI/ETH   $9 996     $0.022529   0.00% Spot Percentage Недавно 
+Selfkey  KEY/ETH   $9 465     $0.001454   0.00% Spot Percentage Недавно 
+WePower  WPR/ETH   $9 175     $0.007742   0.00% Spot Percentage Недавно 
+SONM  SNM/ETH   $9 089     $0.012259   0.00% Spot Percentage Недавно 
+Ripio Credit Network  RCN/ETH    $9 072     $0.039034   0.00% Spot Percentage Недавно 
+Augur  REP/ETH   $8 746     $8.29   0.00% Spot Percentage Недавно 
+Ethos  BQX/ETH   $8 735     $0.050091   0.00% Spot Percentage Недавно 
+Golem  GNT/ETH   $7 860     $0.045010   0.00% Spot Percentage Недавно 
+CyberMiles  CMT/ETH   $7 509     $0.016318    0.00% Spot Percentage Недавно 
+BitShares  BTS/ETH   $7 395     $0.026772   0.00% Spot Percentage Недавно 
+Bitcoin Diamond  BCD/ETH   $7 284     $0.473958   0.00% Spot Percentage Недавно 
+Gifto  GTO/ETH   $7 126     $0.012884   0.00%  Spot Percentage Недавно 
+Monetha  MTH/ETH   $7 101     $0.015102   0.00% Spot Percentage Недавно 
+Ark  ARK/ETH   $6 853     $0.184278   0.00% Spot Percentage  Недавно 
+Request  REQ/ETH   $6 259     $0.012680   0.00% Spot Percentage Недавно 
+Bancor  BNT/ETH   $5 929     $0.357767   0.00% Spot Percentage Недавно 
+district0x  DNT/ETH   $5 835     $0.006687   0.00% Spot Percentage Недавно 
+OST  OST/ETH   $5 185     $0.011656   0.00% Spot Percentage Недавно 
+aelf  ELF/ETH   $5 113     $0.082281   0.00% Spot Percentage Недавно 
+Raiden Network Token  RDN/ETH   $4 893     $0.158917   0.00% Spot Percentage Недавно 
+DigixDAO  DGD/ETH   $4 527     $12.51   0.00% Spot Percentage Недавно 
+Groestlcoin  GRS/ETH   $4 307     $0.196167   0.00% Spot Percentage Недавно 
+Agrello  DLT/ETH   $4 239     $0.041139   0.00% Spot Percentage Недавно 
+AdEx  ADX/ETH   $3 546     $0.074368   0.00% Spot Percentage Недавно 
+Status  SNT/ETH   $3 228     $0.012427    0.00% Spot Percentage Недавно 
+Time New Bank  TNB/ETH   $3 089     $0.002658    0.00% Spot Percentage Недавно 
+Cindicator  CND/ETH   $2 996     $0.007918   0.00% Spot Percentage Недавно 
+Lisk  LSK/ETH   $2 437     $0.781499   0.00% Spot Percentage Недавно 
+Nebulas  NAS/ETH   $2 408     $0.475372   0.00% Spot Percentage Недавно  
+AirSwap  AST/ETH   $1 765     $0.026351   0.00% Spot Percentage Недавно 
+NavCoin  NAV/ETH   $817     $0.086480   0.00% Spot Percentage Недавно 
