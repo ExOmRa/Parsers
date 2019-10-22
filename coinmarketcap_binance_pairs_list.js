@@ -17,21 +17,18 @@ var cheerio = require ('cheerio')
 
 needle.get(URL, function(err, res){
 	if (err) throw err
-	fs.writeFileSync("R-coinmarketcap_binance_pairs_list.txt")
+	fs.writeFileSync("R-coinmarketcap_binance_pairs_list.txt", '')
 	console.log(res.statusCode)
 	console.log('----------------')
 	
 	var $ = cheerio.load(res.body)
-	var elem = $('#exchange-markets tbody tr')
-	
-	elem.each(function(){
-		console.log('----------------')
-		var out = $(this).text().replace(/\n/gi, ' ')
-		out = out.replace(/,/gi,' ')
-		console.log(out)
-		console.log('----------------')
+	$('#exchange-markets tbody tr').each(function(){
+		let Name = $(this).children('td').eq(1).text().replace(' ', '').replace(/\n/g, '')
+		let Tokken = $(this).children('td').eq(2).text().replace(' ', '').replace(/\n/g, '')
+		let Price = $(this).children('td').eq(4).text().replace(' ', '').replace(/\n/g, '')
+		console.log (Name + ' - ' + Tokken + ' - ' + Price)
+		console.log ('- - - - - - - - - - - - - - - -')
 		
-		fs.appendFileSync("R-coinmarketcap_binance_pairs_list.txt", out)
-		fs.appendFileSync("R-coinmarketcap_binance_pairs_list.txt", "\n")
+		fs.appendFileSync("R-coinmarketcap_binance_pairs_list.txt", 'Name:' + Name + ' - Tokken:' + Tokken + ' - Price:' + Price + "\n")
 	})
 })
